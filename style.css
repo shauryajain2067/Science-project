@@ -1,0 +1,30 @@
+#photo{
+color:greenyellow;
+text-align:center;
+font-weight:bold;
+font-style:italic;
+}
+#fact{
+color:greenyellow;
+text-align:center;
+font-weight:bold;
+font-style:italic;
+}
+#tit{
+color:greenyellow;
+text-align:center;
+font-weight:bold;
+font-style:italic;
+}
+.facon{
+    text-align:center;
+    color:orange;
+    font-size:25px;
+}
+body{
+background-color: blue;
+}
+#pho{
+    height:200px;
+    width:300px;
+}
