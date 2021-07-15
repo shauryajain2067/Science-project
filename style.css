@@ -10,7 +10,7 @@ text-align:center;
 font-weight:bold;
 font-style:italic;
 }
-#tit{
+.tit{
 color:greenyellow;
 text-align:center;
 font-weight:bold;
@@ -22,9 +22,40 @@ font-style:italic;
     font-size:25px;
 }
 body{
-background-color: blue;
+background-color: forestgreen;
 }
 #pho{
     height:200px;
     width:300px;
+    border:solid;
+}
+.content{
+    color:greenyellow;
+text-align:center;
+font-weight:bold;
+font-style:italic;
+}
+#auten{
+    font-size:35px;
+    font-weight:bold;
+font-style:italic;
+}
+#phopar{
+    height:200px;
+    width:300px;
+    border:solid;
+}
+.creduts{
+    text-align:right;
+    color:aqua;
+}
+#sapim{
+    height:200px;
+    width:300px;
+    border:solid;
+}
+#sympho{
+    height:200px;
+    width:300px;
+    border:solid;
 }
